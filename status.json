@@ -1,6 +1,8 @@
 {
   "v": 1,
-  "issued": "2026-10-05T11:58:56Z",
-  "inactive": [],
-  "sig": "th-8fzUetDATUCjqAofH0KshhEz0ejbZ5rPd3FoBLIATDWJJQoMxmAGZic5a2PHMPzS3t3uoKmowUVI7wHQRCQ"
+  "issued": "2026-10-05T12:07:15Z",
+  "inactive": [
+    "ea875f00b72ab53b"
+  ],
+  "sig": "c--iIKEmT61mKVi1yV40E7PEKZsd5ZdM4Vx-Y_kHvsdoOIlrru2YIP2atSGCAYLSOCC0pkz8xZBbpzoXr6CQAw"
 }
